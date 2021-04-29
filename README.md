@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Kyle, and I'm a software engineer at [Numetric](https://www.numetric.com/).
+
 <!--
 **exlexer/exlexer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
