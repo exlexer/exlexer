@@ -4,7 +4,7 @@ I'm Kyle, and I'm a software engineer at [Numetric](https://www.numetric.com/), 
 
 ⚡ I'm a fan of television 📺, mountain biking 🚵‍♂️, my beatiful wife 👩 and daughter 👧, and clean engineering.
 
-🌱 Find what I'm currently reading [here](https://github.com/exlexer/2021-reading-list).
+🌱 Check out what I'm currently reading [here](https://github.com/exlexer/2021-reading-list).
 
 📫 I can be reached on [Twitter](https://twitter.com/ExlexerIAm).
 
