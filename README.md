@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kyle, and I'm a software engineer at [Numetric](https://www.numetric.com/), and contractor at [ThoughtBot](https://thoughtbot.com/).
+I'm Kyle, and I'm a software engineer at [Numetric](https://www.numetric.com/).
 
 ⚡ I'm a fan of television 📺, mountain biking 🚵‍♂️, my beatiful wife 👩  and daughter 👧, and interesting problems solved in interesting ways.
 
