@@ -3,9 +3,6 @@
 I'm Kyle, and I'm a senior software engineer.
 
 ⚡ I'm a fan of television 📺, mountain biking 🚵‍♂️, my beatiful wife 👩  and daughter 👧, and interesting problems solved in interesting ways.
-
-📫 I can be reached [@ExlexerIAm](https://twitter.com/ExlexerIAm).
-
 <!--
 **exlexer/exlexer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
